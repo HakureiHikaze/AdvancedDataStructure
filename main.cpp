@@ -1,9 +1,7 @@
 #include <iostream>
-
 #ifdef __cplusplus
 extern "C"{
 #endif
-#define _Bool bool
 #include "SeqQueue.h"
 #ifdef __cplusplus
 }

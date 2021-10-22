@@ -4,6 +4,7 @@
 //
 
 #pragma once
+#include <stdbool.h>
 #include <stdlib.h>
 #include "PrintCallback.h"
 //预先设置初始化时默认分配的大小
